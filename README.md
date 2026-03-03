@@ -25,7 +25,7 @@ Develop an AI-powered assistive solution that enhances independent mobility for 
 
 ---
 
-# 🧠 About VisionMate  
+#  About VisionMate  
 
 VisionMate is an AI-powered assistive application designed to help visually impaired individuals navigate their surroundings safely and independently.
 
@@ -35,12 +35,12 @@ The system uses computer vision and voice interaction to detect obstacles, analy
 
 # 🌟 Key Features  
 
-- 🎙 Voice-controlled interaction  
-- 🧭 Real-time obstacle detection  
-- 📍 Distance estimation alerts  
-- 🔊 Instant audio guidance  
-- ♿ Accessibility-first interface  
-- 🔐 Secure user authentication  
+-  Voice-controlled interaction  
+-  Real-time obstacle detection  
+-  Distance estimation alerts  
+-  Instant audio guidance  
+-  Accessibility-first interface  
+-  Secure user authentication  
 
 ---
 
