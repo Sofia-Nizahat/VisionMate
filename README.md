@@ -58,7 +58,7 @@ The system uses computer vision and voice interaction to detect obstacles, analy
 - OpenCV / TensorFlow / YOLO  
 - Web Speech API  
 
-(Modify based on your actual stack.)
+
 
 ---
 
