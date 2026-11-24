@@ -23,7 +23,6 @@ Develop an AI-powered assistive solution that enhances independent mobility for 
 ### 🧠 Object Detection Output  
 
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/5bec4d1d-ea62-415d-8375-a583762ee280" /> 
----
 
 #  About VisionMate  
 
